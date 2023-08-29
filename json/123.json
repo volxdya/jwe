@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "641d7c846d14b3e30b120ca6"
+  },
+  "title": "Футболка Nike",
+  "description": "Классическая футболка Nike с логотипом на груди.",
+  "price": 1499,
+  "category": "Одежда",
+  "image": "https://rskrf.ru/upload/iblock/e04/tmyoe45cuwwp9sw0xcl3e0tbago3bt67.jpg",
+  "isMine": false,
+  "createdAt": {
+    "$date": "2022-01-15T00:00:00.000Z"
+  },
+  "views": 0,
+  "weight": 256,
+  "color": "Зеленый",
+  "basket": true,
+  "likes": 0,
+  "dislikes": 0
+}]
